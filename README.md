@@ -1,4 +1,4 @@
-# ykm-simulator
+# skm-simulator
 
 基于 Web 的苏康码模拟。
 
